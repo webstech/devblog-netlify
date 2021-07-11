@@ -1,5 +1,6 @@
 {
   "title": "Toy Time with Blog",
+  "description": "An experiment in all of this netlify/eleventy/nunjucks world.",
   "url": "https://webstech-blog.netlify.com",
   "author": {
     "name": "Chris. Webster",

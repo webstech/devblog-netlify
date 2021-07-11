@@ -3,6 +3,8 @@ layout: layouts/base.njk
 section: home
 ---
 
-<div class='prettyback'>
+<p>{{ metadata.description | safe }}</p>
+
+<div class='xprettyback'>
 {{ layoutContent | safe }}
 </div>
