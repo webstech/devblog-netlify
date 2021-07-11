@@ -1357,20 +1357,25 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
-luxon@^1.25.0, luxon@^1.26.0:
-  version "1.26.0"
-  resolved "https://registry.npmjs.org/luxon/-/luxon-1.26.0.tgz"
-  integrity sha512-+V5QIQ5f6CDXQpWNICELwjwuHdqeJM1UenlZWx5ujcRMc9venvluCjFb4t5NYLhb6IhkbMVOxzVuOqkgMxee2A==
+luxon@^1.26.0:
+  version "1.28.0"
+  resolved "https://registry.npmjs.org/luxon/-/luxon-1.28.0.tgz"
+  integrity sha512-TfTiyvZhwBYM/7QdAVDh+7dBTBA29v4ik0Ce9zda3Mnf8on1S5KJI8P2jKFZ8+5C0jhmr0KwJEO/Wdpm0VeWJQ==
+
+luxon@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.npmjs.org/luxon/-/luxon-2.0.1.tgz"
+  integrity sha512-8Eawf81c9ZlQj62W3eq4mp+C7SAIAnmaS7ZuEAiX503YMcn+0C1JnMQRtfaQj6B5qTZLgHv0F4H5WabBCvi1fw==
 
 map-cache@^0.2.0:
   version "0.2.2"
   resolved "https://registry.npmjs.org/map-cache/-/map-cache-0.2.2.tgz"
   integrity sha1-wyq9C9ZSXZsFFkW7TyasXcmKDb8=
 
-markdown-it-anchor@^7.0.2:
-  version "7.1.0"
-  resolved "https://registry.npmjs.org/markdown-it-anchor/-/markdown-it-anchor-7.1.0.tgz"
-  integrity sha512-loQggrwsIkkP7TOrESvmYkV2ikbQNNKhHcWyqC7/C2CmfHl1tkUizJJU8C5aGgg7J6oXVQJx17gk7i47tNn/lQ==
+markdown-it-anchor@^8.1.0:
+  version "8.1.0"
+  resolved "https://registry.npmjs.org/markdown-it-anchor/-/markdown-it-anchor-8.1.0.tgz"
+  integrity sha512-QgnJbBhoDL8YIxeOnxxjhuMPsnjhHSixs3NuZBW8srNrwHlZUncY0j75bukEQoLRV+YCuwfVSqY4ShFfnzTaDQ==
 
 markdown-it@^10.0.0:
   version "10.0.0"
@@ -1383,10 +1388,10 @@ markdown-it@^10.0.0:
     mdurl "^1.0.1"
     uc.micro "^1.0.5"
 
-markdown-it@^12.0.4:
-  version "12.0.6"
-  resolved "https://registry.npmjs.org/markdown-it/-/markdown-it-12.0.6.tgz"
-  integrity sha512-qv3sVLl4lMT96LLtR7xeRJX11OUFjsaD5oVat2/SNBIb21bJXwal2+SklcRbTwGwqWpWH/HRtYavOoJE+seL8w==
+markdown-it@^12.1.0:
+  version "12.1.0"
+  resolved "https://registry.npmjs.org/markdown-it/-/markdown-it-12.1.0.tgz"
+  integrity sha512-7temG6IFOOxfU0SgzhqR+vr2diuMhyO5uUIEZ3C5NbXhqC9uFUHoU41USYuDFoZRsaY7BEIEei874Z20VMLF6A==
   dependencies:
     argparse "^2.0.1"
     entities "~2.1.0"
